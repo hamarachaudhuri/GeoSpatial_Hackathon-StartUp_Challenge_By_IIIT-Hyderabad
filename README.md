@@ -4,6 +4,8 @@ Contactless Enforcement Solutions For Cycle Lanes to promote Active Mobility in 
 
 **1. A detailed description of the scope of the solution**
 
+**-----------------------------------------------------------**
+
 In the case of CCTV, as its location is fixed and its hardware performance is superb, it is highly effective for the monitoring of car movements in a predefined area. 
 
 A number of video surveillance devices used for traffic condition analysis, people identification , and event detection. As they are dealing with a single video source, the analysis results were limited, and combining the results from separate video sources would be both time-consuming and labor-intensive. Vehicle tracking based on surveillance videos suffers from the same problem. 
