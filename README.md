@@ -19,7 +19,9 @@ collected from numerous different places.
 Fortunately, modern CCTV cameras provide diverse metadata including global positioning system (GPS) and time-stamping. 
 
 In addition, plate number and moving direction can be easily detected from the captured images using popular image processing or machine learning techniques.
+
 ————-xx————-xx————
+
 Real-time vehicle tracking system based on surveillance videos from diverse devices including CCTV, dashboard cameras, and drones. 
 
 For scalability and fault tolerance, our system is to be built on a distributed processing framework and comprises a Frame Distributor, a Feature Extractor, and an Information Manager. 
@@ -31,7 +33,9 @@ The Feature Extractor extracts principal vehicle features such as plate number, 
 The Information Manager stores all the features into a database and handles user requests by collecting relevant information from the feature database. 
 
 To illustrate the effectiveness of our proposed system, we implemented a prototype system and performed a number of experiments. I report some of the results mentioned below. 
+
 ————-xx————-xx————
+
 An integrated vehicle tracking system, IVATS, based on Kafka and HBase was designed and developed. 
 
 Our system could assign a significant number of frames from diverse video sources, such as CCTVs cameras, to processing nodes using Apache Kafka. 
@@ -45,6 +49,7 @@ For effective query processing, an indexing structure based on R-Tree was propos
 In the experiments, I demonstrate that our system can handle diverse user queries, including vehicle tracking and traffic congestion, efficiently. 
 
 Based on the data distribution, storage structure, Rowkey design, and indexing structure, our system can effectively handle real-time requirements of vehicle tracking applications. 
+
 ————-xx————-xx————
 
 Improvements in functional PoC over Phase 1 submission
