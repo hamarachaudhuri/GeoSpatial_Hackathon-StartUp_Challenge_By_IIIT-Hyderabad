@@ -57,6 +57,8 @@ Based on the data distribution, storage structure, Rowkey design, and indexing s
 
 **2. Improvements in functional PoC over Phase 1 submission**
 
+**-----------------------------------------------------------**
+
 Drawbacks:
 It is not easy to implement for a number of reasons. 
 
@@ -117,6 +119,8 @@ A popular index structure for geometric information is R-tree-based indexing sch
 
 
 **3. What are the technologies used in the functional PoC?**
+
+**-----------------------------------------------------------**
 
 I propose a real-time vehicle tracking system IVATS (Integrated Video-based Automobile Tracking System) that can collect video big data, extract and store principal vehicle features, and process user queries in a real-time environment. 
 
