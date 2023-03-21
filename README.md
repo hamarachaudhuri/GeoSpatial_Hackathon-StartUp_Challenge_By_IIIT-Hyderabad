@@ -2,7 +2,7 @@
 Contactless Enforcement Solutions For Cycle Lanes to promote Active Mobility in India as safe as possible.
 
 
-1. A detailed description of the scope of the solution
+**1. A detailed description of the scope of the solution**
 In the case of CCTV, as its location is fixed and its hardware performance is superb, it is highly effective for the monitoring of car movements in a predefined area. 
 
 A number of video surveillance devices used for traffic condition analysis, people identification , and event detection. As they are dealing with a single video source, the analysis results were limited, and combining the results from separate video sources would be both time-consuming and labor-intensive. Vehicle tracking based on surveillance videos suffers from the same problem. 
@@ -52,7 +52,7 @@ Based on the data distribution, storage structure, Rowkey design, and indexing s
 
 ————-xx————-xx————
 
-Improvements in functional PoC over Phase 1 submission
+**2. Improvements in functional PoC over Phase 1 submission**
 
 Drawbacks:
 It is not easy to implement for a number of reasons. 
@@ -113,7 +113,8 @@ To overcome this problem, a number of studies have proposed the index structure,
 A popular index structure for geometric information is R-tree-based indexing scheme for trajectory data of cars in a distributed environment. However, we optimised the index structure by indexing GPS data using Quad-tree-based indexing scheme and Hilbert space-filling curves to obtain improved performance. 
 
 
- What are the technologies used in the functional PoC?
+** 3. What are the technologies used in the functional PoC?**
+
 I propose a real-time vehicle tracking system IVATS (Integrated Video-based Automobile Tracking System) that can collect video big data, extract and store principal vehicle features, and process user queries in a real-time environment. 
 
 Our proposed system comprises three components: Frame Distributor (FD), Feature Extractor (FE), and Information Manager (IM). 
