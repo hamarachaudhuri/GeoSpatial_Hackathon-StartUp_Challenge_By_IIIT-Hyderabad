@@ -54,5 +54,5 @@ Usage of computer vision, image & video recognition, tracking & recognising vehi
 
 ![image](https://user-images.githubusercontent.com/108155749/227737068-a209ca1e-1763-4ce1-a83e-cde595a1d8bf.png)
 ![image](https://user-images.githubusercontent.com/108155749/227737106-438139b2-e91e-4527-a78d-051d12d0f585.png)
-![](https://github.com/hamarachaudhuri/GeoSpatial_Hackathon-StartUp_Challenge_By_IIIT-Hyderabad/blob/main/MLG.gif)
+![](https://github.com/hamarachaudhuri/GeoSpatial_Hackathon-StartUp_Challenge_By_IIIT-Hyderabad/blob/main/Moving%20Lane%20Guidance.gif)
 -------------------------------------------------------------------
