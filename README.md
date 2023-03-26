@@ -49,10 +49,12 @@ Usage of computer vision, image & video recognition, tracking & recognising vehi
 ![image](https://user-images.githubusercontent.com/108155749/227737405-82927e39-addd-4aef-b900-360eefbc158e.png)
 ![image](https://user-images.githubusercontent.com/108155749/227762431-f5b2e27c-c571-46b3-97e8-f08d98089199.png)
 ![image](https://user-images.githubusercontent.com/108155749/227758593-1d18f7ea-17db-433c-9b81-a8c0cd297fc2.png)
+![image](https://user-images.githubusercontent.com/108155749/227762823-1ff90e88-62d2-46eb-b3fe-38a559f5534d.png)
 ![image](https://user-images.githubusercontent.com/108155749/227760538-f1d1a8dc-4e76-46e8-803a-d5b358f08532.png)
 ![image](https://user-images.githubusercontent.com/108155749/227760697-ebd2bcbe-e97d-4c52-ab31-fdcd3d67179c.png)
 ![image](https://user-images.githubusercontent.com/108155749/227760714-2a5f1702-261e-4bb2-9965-4ac16867c6f2.png)
 ![image](https://user-images.githubusercontent.com/108155749/227760777-9f2d3431-911d-4d98-8591-ef320a45234c.png)
+![image](https://user-images.githubusercontent.com/108155749/227763108-d4042ce7-3ed8-4975-b9fd-f1f4c170c696.png)
 
 -------------------------------------------------------------------
 
@@ -84,7 +86,7 @@ Usage of computer vision, image & video recognition, tracking & recognising vehi
 ![image](https://user-images.githubusercontent.com/108155749/227759897-0ba9153a-c6c0-45e9-b50d-2e242c9be6aa.png)
 ![image](https://user-images.githubusercontent.com/108155749/227762596-f8502e5c-322b-4fb9-bfed-294f1f8e4922.png)
 ![image](https://user-images.githubusercontent.com/108155749/227762549-8c40b297-9960-426e-8794-550bdf745757.png)
+![image](https://user-images.githubusercontent.com/108155749/227763136-9ad6d696-ae74-4028-9130-e5e7df27bdf1.png)
 ![image](https://user-images.githubusercontent.com/108155749/227759708-ca6ec27d-e6c7-435b-af4f-bd57bd03bfc9.png)
-
 
 -------------------------------------------------------------------
