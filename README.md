@@ -47,6 +47,7 @@ Usage of computer vision, image & video recognition, tracking & recognising vehi
 ![image](https://user-images.githubusercontent.com/108155749/227736684-cedb67e8-1f2e-4f6d-936a-3e8741a9984b.png)
 ![image](https://user-images.githubusercontent.com/108155749/227736746-40b2dc47-1672-4eae-ab47-7f04bb38a056.png)
 ![image](https://user-images.githubusercontent.com/108155749/227737405-82927e39-addd-4aef-b900-360eefbc158e.png)
+![image](https://user-images.githubusercontent.com/108155749/227762431-f5b2e27c-c571-46b3-97e8-f08d98089199.png)
 ![image](https://user-images.githubusercontent.com/108155749/227758593-1d18f7ea-17db-433c-9b81-a8c0cd297fc2.png)
 ![image](https://user-images.githubusercontent.com/108155749/227760538-f1d1a8dc-4e76-46e8-803a-d5b358f08532.png)
 ![image](https://user-images.githubusercontent.com/108155749/227760697-ebd2bcbe-e97d-4c52-ab31-fdcd3d67179c.png)
@@ -81,6 +82,8 @@ Usage of computer vision, image & video recognition, tracking & recognising vehi
 ![image](https://user-images.githubusercontent.com/108155749/227759641-37b523e8-470b-49fc-a6a8-757102f79e8f.png)
 ![image](https://user-images.githubusercontent.com/108155749/227759658-984ca342-45b2-40a9-b1a3-06b60e22c858.png)
 ![image](https://user-images.githubusercontent.com/108155749/227759897-0ba9153a-c6c0-45e9-b50d-2e242c9be6aa.png)
+![image](https://user-images.githubusercontent.com/108155749/227762596-f8502e5c-322b-4fb9-bfed-294f1f8e4922.png)
+![image](https://user-images.githubusercontent.com/108155749/227762549-8c40b297-9960-426e-8794-550bdf745757.png)
 ![image](https://user-images.githubusercontent.com/108155749/227759708-ca6ec27d-e6c7-435b-af4f-bd57bd03bfc9.png)
 
 
