@@ -92,5 +92,6 @@ Usage of computer vision, image & video recognition, tracking & recognising vehi
 ![image](https://user-images.githubusercontent.com/108155749/227762549-8c40b297-9960-426e-8794-550bdf745757.png)
 ![image](https://user-images.githubusercontent.com/108155749/227763136-9ad6d696-ae74-4028-9130-e5e7df27bdf1.png)
 ![image](https://user-images.githubusercontent.com/108155749/227759708-ca6ec27d-e6c7-435b-af4f-bd57bd03bfc9.png)
+![image](https://user-images.githubusercontent.com/108155749/227763717-6642ab13-13d3-4e36-bc69-a6f01a2ffe89.png)
 
 -------------------------------------------------------------------
